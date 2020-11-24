@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="title">Calculator</string>
+    <string name="enterNum1">Enter Number 1</string>
+    <string name="enterNum2">Enter Number 2</string>
+    <string name="txtAdd">+</string>
+    <string name="result">Result</string>
+    <string name="txtReset">Reset</string>
+</resources>
